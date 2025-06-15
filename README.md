@@ -5,7 +5,7 @@ A Go library for overlaying numbered coordinate grids on images.
 ## Installation
 
 ```bash
-go get github.com/danielkesler/imgrid
+go get github.com/dmahlow/imgrid
 ```
 
 ## Features
@@ -25,7 +25,7 @@ package main
 import (
     "image"
     "os"
-    "github.com/danielkesler/imgrid"
+    "github.com/dmahlow/imgrid"
 )
 
 func main() {

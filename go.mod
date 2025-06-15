@@ -1,3 +1,3 @@
-module github.com/danielkesler/imgrid
+module github.com/dmahlow/imgrid
 
 go 1.21

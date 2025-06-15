@@ -8,7 +8,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/danielkesler/imgrid"
+	"github.com/dmahlow/imgrid"
 )
 
 func main() {
